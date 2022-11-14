@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667707166 source:d:\lab1 c iot\lab3-5\main.cpp
+	<iostream>
+
+1667715231 source:d:\lab1 c iot\lab3-5\main.c
+	<stdio.h>
+	<stdlib.h>
+
